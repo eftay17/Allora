@@ -82,7 +82,7 @@ allorad keys add CÜZDAN_İSMİ
 
 > Allora ağını keplr'a [buradan](https://explorer.edgenet.allora.network/wallet/suggest) ekleyelim.
 
-> Allora dashboard'a [buradan](https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6IjBlNWRhMjlmLTc3YjItNDQ2NS1hYTcxLTk0NWI3NjRhMTA0ZiJ9) bağlanıyoruz.
+> Allora dashboard'a [buradan](https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6IjEzMjhkZDYzLTgyMGEtNDFjMC04MWQzLWMzODQ1NzQzMGNmNCJ9) bağlanıyoruz.
 
 > Allora cüzdanımıza token [buradan](https://faucet.edgenet.allora.network/) alıyoruz.
 
